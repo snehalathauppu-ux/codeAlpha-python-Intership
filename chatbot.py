@@ -1,4 +1,3 @@
-
 def chatbot():
     print("Welcome to Python Chatbot!")
     print("You can type: hello, how are you, bye")
